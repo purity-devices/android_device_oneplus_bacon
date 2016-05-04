@@ -8,7 +8,7 @@
     "target_path": "kernel/oneplus/msm8974"
   },
   {
-    "repository": "android_vendor_oneplus_bacon",
+    "repository": "android_vendor_oneplus",
     "target_path": "vendor/oneplus"
   }
 ]
